@@ -1,12 +1,21 @@
-## 👋 안녕하세요. 개발에 대해 차근차근 배우고 있는 신참 개발자 이민형입니다.
+<h2 align="center">👋 안녕하세요. 개발에 대해 차근차근 배우고 있는 신참 개발자 이민형입니다.</h2>
+
+<h6 align="center">🌟 개발에 입문한지 어느세 2개월차! 끝없는 호기심으로 배워나가는 중!!!</h6>
+
+----
 
 🛠️ 기술 스택 (Tech Stack)
 
-+ frontEnd :🖥️ Vue3, JavaScript, HTML, CSS
++ frontEnd 🖥️ : ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D),
+                 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E),
+                  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-+ backEnd :⚙️ Node.js, oracle
++ backEnd ⚙️ : ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white),
+                ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-+ tools :🔨 github, vscode, eclipse
++ tools 🔨 : ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white),
+              ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white),
+              ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ----
 
@@ -28,8 +37,6 @@
 
 + Email :✉️ sinso5281532@gmail.com
  
-----
-![hits](https://hits.seeyou.space/github/narang06/narang06.svg?style=flat&theme=dracula)
 ----
 
  ![[이민형]님의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=narang06&show_icons=true&theme=dracula)

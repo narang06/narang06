@@ -39,8 +39,33 @@
   
 📁Project
 
-+ [스프링부트 프로젝트](https://github.com/Kimseongmin3790/Team2_SpringProject)
-+ [리엑트 프로젝트](https://github.com/narang06/snsproject)
+### 농수산물 직거래 플랫폼 팀 프로젝트 (Spring Boot / Oracle)
+- 농부와 소비자 간 직거래를 지원하는 웹 서비스
+- Spring Boot 기반 서버와 Oracle DB를 활용한 팀 프로젝트
+
+**담당 업무**
+- 사용자 인증 및 마이페이지 기능 구현
+- 주문 / 결제 / 환불 프로세스 개발
+- 리뷰 및 댓글 기능 구현
+- ERD 기반 DB 설계 및 MyBatis 연동
+
+🔗 GitHub: https://github.com/Kimseongmin3790/Team2_SpringProject
+
+### Questly – 데일리 소셜 챌린지 SNS (React / Node.js / MySQL)
+- 일상 속 소소한 챌린지를 함께 공유하고 소통하는 SNS 웹 서비스
+- React 기반 클라이언트 + Node.js/Express 서버 + MySQL로 구현
+
+**주요 기능**
+- JWT 기반 인증 (회원가입/로그인)
+- 퀘스트 제출 및 피드 조회
+- 팔로우, 좋아요, 댓글, 알림 기능
+
+**기술 포인트**
+- React SPA + MUI 스타일링
+- JWT 인증 및 이미지 업로드
+- REST API 및 CORS 설정
+
+🔗 GitHub: https://github.com/narang06/snsproject
 
 ----
   

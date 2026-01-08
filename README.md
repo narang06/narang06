@@ -64,7 +64,7 @@
 
 🔗 GitHub: https://github.com/narang06/snsproject
 
-### 문화재 마블 – 한국 전통 테마의 보드게임 프로젝트 (Flutter / node.js / Firebase)
+### 문화재 마블 – 한국 전통 테마의 보드게임 프로젝트 (Flutter / Node.js / Firebase)
 
 🔗 GitHub: https://github.com/hee8144/teamproject
 

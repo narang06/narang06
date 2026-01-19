@@ -50,6 +50,7 @@
 - 사용자 인증 및 마이페이지 기능 구현
 - 주문 / 결제 / 환불 프로세스 개발
 - 리뷰 및 댓글 기능 구현
+- 쿠폰 발급 시스템 및 실시간 알림 기반의 취소/환불 로직 구현
 - ERD 기반 DB 설계 및 MyBatis 연동
 
 🔗 GitHub: https://github.com/Kimseongmin3790/Team2_SpringProject

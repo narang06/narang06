@@ -42,7 +42,7 @@
   
 📁Projects
 
-### 1.농수산물 직거래 플랫폼 팀 프로젝트 (Spring Boot / Oracle)
+### 1. 농수산물 직거래 플랫폼 팀 프로젝트 (Spring Boot / Oracle)
 - 농부와 소비자 간 직거래를 지원하는 웹 서비스
 - Spring Boot 기반 서버와 Oracle DB를 활용한 팀 프로젝트
 
@@ -55,7 +55,7 @@
 
 🔗 GitHub: https://github.com/Kimseongmin3790/Team2_SpringProject
 
-### 2.Questly – 데일리 소셜 챌린지 SNS 개인 프로젝트 (React / Node.js / MySQL)
+### 2. Questly – 데일리 소셜 챌린지 SNS 개인 프로젝트 (React / Node.js / MySQL)
 - 일상 속 소소한 챌린지를 함께 공유하고 소통하는 SNS 웹 서비스
 - React 기반 클라이언트 + Node.js/Express 서버 + MySQL로 구현
 
@@ -71,7 +71,7 @@
 
 🔗 GitHub: https://github.com/narang06/snsproject
 
-### 3.문화재 마블 – 한국 전통 테마의 보드게임 팀 프로젝트 (Flutter / Node.js / Firebase)
+### 3. 문화재 마블 – 한국 전통 테마의 보드게임 팀 프로젝트 (Flutter / Node.js / Firebase)
 
 - 공공데이터 API를 활용한 실시간 멀티플레이 문화유산 보드게임
 - Flutter 기반의 크로스 플랫폼 클라이언트와 Firebase/Socket.io 연동
